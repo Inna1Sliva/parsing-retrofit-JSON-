@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">thisret</string>
+    <string name="logo_appname">Collection of Books</string>
+    <string name="recycler_title_name">Hayley O\'Keefe</string>
+    <string name="activity_title">List of Books</string>
+    <string name="title_data" tools:ignore="TypographyDashes">1991–03-24</string>
+    <string name="text">Eveniet sed exercitationem distinctio voluptatum qui
+         </string>
+</resources>
